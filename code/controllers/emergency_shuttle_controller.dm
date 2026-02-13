@@ -21,9 +21,9 @@
 	var/datum/announcement/priority/emergency_shuttle_recalled
 
 /datum/emergency_shuttle_controller/New()
-	emergency_shuttle_docked = new(0, new_sound = sound('sound/AI/shuttledock.ogg'))
-	emergency_shuttle_called = new(0, new_sound = sound('sound/AI/shuttlecalled.ogg'))
-	emergency_shuttle_recalled = new(0, new_sound = sound('sound/AI/shuttlerecalled.ogg'))
+	emergency_shuttle_docked = new(0, new_sound = sound('sound/AI/emergency_s_docked.ogg'))
+	emergency_shuttle_called = new(0, new_sound = sound('sound/AI/emergency_s_called.ogg'))
+	emergency_shuttle_recalled = new(0, new_sound = sound('sound/AI/emergency_s_recalled.ogg'))
 	escape_pods = list()
 	..()
 
