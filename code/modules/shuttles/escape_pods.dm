@@ -73,6 +73,7 @@
 			if(pod.can_force())
 				pod.force_launch(src)
 			else if(GLOB.emergency_shuttle.departed && pod.can_launch())	//allow players to manually launch ahead of time if the shuttle leaves
+				playsound(src, 'sound/effects/escape_shuttle/ep_undocking.ogg', 50, 0, 0)
 				pod.launch(src)
 			. = TRUE
 
