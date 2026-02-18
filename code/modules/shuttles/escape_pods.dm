@@ -141,6 +141,7 @@
 	return 1
 
 /datum/embedded_program/docking/simple/escape_pod_berth/finish_docking()
+	playsound(src, 'sound/effects/escape_shuttle/es_cc_docking.ogg', 50, 0, 0)
 	return		//don't do anything - the doors only open when the pod is armed.
 
 /datum/embedded_program/docking/simple/escape_pod_berth/prepare_for_undocking()
