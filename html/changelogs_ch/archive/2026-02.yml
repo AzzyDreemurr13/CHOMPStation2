@@ -188,3 +188,7 @@
   Will:
   - bugfix: Electric guitar note files use correct path, electric guitar actually
       plays notes now
+2026-02-18:
+  CHOMPStation2StaffMirrorBot:
+  - qol: rework the color matrix solver
+  - qol: ticket chat auto focusses again after message send
