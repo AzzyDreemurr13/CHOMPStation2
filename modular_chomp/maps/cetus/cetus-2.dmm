@@ -41081,6 +41081,7 @@
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	dir = 8
 	},
+/obj/effect/landmark/sound_source/shuttle_docking,
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/entry/D1)
 "nXT" = (

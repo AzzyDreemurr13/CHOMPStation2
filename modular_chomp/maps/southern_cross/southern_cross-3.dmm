@@ -76035,6 +76035,7 @@
 	dir = 8;
 	pixel_x = 22
 	},
+/obj/effect/landmark/sound_source/shuttle_docking,
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/entry/D1)
 "wQR" = (
