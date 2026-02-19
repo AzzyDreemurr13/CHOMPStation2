@@ -3770,6 +3770,76 @@
 		"jukebox": true
 	},
 	{
+		"url": "https://files.catbox.moe/jj9g0r.mp3",
+		"title": "BIG SHOT",
+		"duration": 1340,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": false,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
+		"url": "https://files.catbox.moe/v5laif.mp3",
+		"title": "TV WORLD",
+		"duration": 1420,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": false,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
+		"url": "https://files.catbox.moe/0c7q1s.mp3",
+		"title": "Raise Up Your Bat",
+		"duration": 1305,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": false,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
+		"url": "https://files.catbox.moe/655xj1.ogg",
+		"title": "Find her",
+		"duration": 791,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": true,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
+		"url": "https://files.catbox.moe/vhkkni.mp3",
+		"title": "Hammer of Justice",
+		"duration": 1300,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": false,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
+		"url": "https://files.catbox.moe/4ep5rk.mp3",
+		"title": "The Third Sanctuary",
+		"duration": 3300,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": false,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
+		"url": "https://files.catbox.moe/bccisp.mp3",
+		"title": "Neverending Night",
+		"duration": 1015,
+		"artist": "Toby Fox",
+		"genre": "Video Game",
+		"secret": false,
+		"lobby": false,
+		"jukebox": true
+	},
+	{
 		"url": "https://files.catbox.moe/c9y5x2.mp3",
 		"title": "Golden Wind",
 		"duration": 2930,
